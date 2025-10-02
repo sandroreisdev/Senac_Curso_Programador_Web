@@ -1,9 +1,10 @@
 Aula 01 HTML
-Ensinado a estrutura do HTML
-Ensinado a estrutura de pastas de um projeto
-Criação do arquivo index.html esse tem que ficar fora das pastas na raiz do projeto pois ele será o primeiro arquivo que o SEO vai procurar e o nome TEM QUE SER INDEX.HTML
-Pastas da estrutura: docs, src, assets(fonts, images), js, styles, pages 
-tag link rel -> para colocar uma imagem no título da Aba
+Ensinado as estruturas:
+HTML
+Pastas de um projeto
+Criação do arquivo index.html - esse tem que ficar fora das pastas na raiz do projeto pois ele será o primeiro arquivo que o SEO vai procurar e o nome tem que ser index.html
+Estrutura de pastas de um projeto: docs, src, assets(fonts, images), js, styles, pages e index.html 
+tag link rel -> para colocar uma imagem/ícone no título da Aba
 tags meta: faz com que aumente sua pontuação no google SEO
 Exemplos:
 <meta name="author" content="Sandro Reis">
